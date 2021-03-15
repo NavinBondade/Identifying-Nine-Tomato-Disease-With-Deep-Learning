@@ -26,5 +26,9 @@
 <img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/images/Nine%20Tomato%20Disease.png" alt="tomato diseases" width="700" height="700">
 <h2>Model Details</h2>
 The model consists of four convolutional layers for feature extraction from the images, each followed by a max-pooling layer and having the same padding. After the convolutional and max-pooling layers, the model uses two dense layers for the classification task. All the layers use the Relu activation function except the last dense layer, which uses the softmax activation function. The model was trained for 10 epochs with batch size equals to 574. During the training process parse categorical cross-entropy loss function was used along with Adam optimizer.
-
+<h2>Model Evaluation</h2>
+<ul>
+  <li><h3>Loss</h3></li>
+</ul>  
+<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/Loss.png" width="550" height="450">
 
