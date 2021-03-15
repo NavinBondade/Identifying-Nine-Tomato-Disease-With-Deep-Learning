@@ -32,7 +32,8 @@
 </ul>  
 <img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/Loss.png" width="450" height="300">
 <p>After training the model has shown loss: 0.1904 and accuracy: 0.9400 for training data and loss: 0.1604 and accuracy: 0.9461 for validation data (this clearly shows that model trained perfectly without overfitting or underfitting)</p>
-  
+
+<h2>Licensing</h2>  
 Copyright [2021] [Navin Bondade]
 
 Licensed under the Apache License, Version 2.0 (the "License");
