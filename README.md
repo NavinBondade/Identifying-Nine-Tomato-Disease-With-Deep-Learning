@@ -18,7 +18,7 @@
 <ul>
   <li><h3>Healthy</h3></li>
 </ul>  
-<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/images/Healthy.png" width="700" height="700">
+<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/images/Healthy.png" width="500" height="500">
 
 <ul>
   <li><h3>Nine Diseases</h3></li>
