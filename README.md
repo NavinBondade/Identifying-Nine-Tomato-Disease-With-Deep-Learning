@@ -15,12 +15,7 @@
 <h2>Introduction</h2>
 <p>I have created a deep learning model that is efficiently able to identify nine tomato diseases. The model uses conventional layers at the core for feature extraction and use dense layers for the classification task. The model was trained for 10 epochs with batch size 574. The dataset used for model training was downloaded from Kaggle (https://bit.ly/3qOrdX0).</p>
 <h2>Data Visualization</h2>
-<ul>
-  <li>Healthy</li> 
-  <li>Nine Diseases
-     <ul>
-    <li><<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/images/Nine%20Tomato%20Disease.png" alt="tomato diseases" width="500" height="600">/li>
-  </ul> 
-  </li>
-</ul>  
+<h4>Nine Diseases</h4>
+<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/images/Nine%20Tomato%20Disease.png" alt="tomato diseases">
+
 
