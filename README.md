@@ -32,3 +32,8 @@ The model consists of four convolutional layers for feature extraction from the 
 </ul>  
 <img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/Loss.png" width="450" height="300">
 
+<ul>
+  <li><h3>Accuracy</h3></li>
+</ul>  
+<img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/Accuracy.png" width="450" height="300">
+
