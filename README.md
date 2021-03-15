@@ -12,3 +12,5 @@
   <li>Numpy</li>
   <li>Glob</li>
 </ul> 
+<h2>Introduction</h2>
+<p>I have created a deep learning model that is efficiently able to identify nine tomato diseases. The model uses conventional layers at the core for feature extraction and use dense layers for the classification task. The model was trained for 10 epochs with batch size 574. The dataset used for model training was downloaded from Kaggle (https://bit.ly/3qOrdX0).</p>
