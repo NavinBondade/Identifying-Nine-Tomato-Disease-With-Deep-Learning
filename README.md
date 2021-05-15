@@ -24,21 +24,7 @@
 <h2>Model Details</h2>
 <p>The model consists of four convolutional layers for feature extraction from the images, each followed by a max-pooling layer and having the same padding. After the convolutional and max-pooling layers, the model uses two dense layers for the classification task. All the layers use the Relu activation function except the last dense layer, which uses the softmax activation function. The model was trained for 10 epochs with batch size equals to 574. During the training process parse categorical cross-entropy loss function was used along with Adam optimizer.</p>
 <h2>Model Evaluation</h2>
-  
 <img src="https://github.com/NavinBondade/10-Tomato-Disease-Detection-and-Classification-/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/Loss.png" width="450" height="300">
 <p>After training the model has shown loss: 0.1904 and accuracy: 0.9400 for training data and loss: 0.1604 and accuracy: 0.9461 for validation data (this clearly shows that model trained perfectly without overfitting or underfitting)</p>
-
-<h2>Licensing</h2>  
-Copyright [2021] [Navin Bondade]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+<h2>Conclusion</h2>  
+<p>In this project, I have created a deep convolutional neural network architecture that correctly identifies the nine harmful tomato diseases with an accuracy of 94 percent.</p>
