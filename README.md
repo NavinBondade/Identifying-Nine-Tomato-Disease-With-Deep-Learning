@@ -1,4 +1,4 @@
-# Identifying Nine Tomato Disease With Deep-Learning
+# Identifying Nine Tomato Disease With Deep Learning
 <p align="center">
 <a href="https://nbviewer.jupyter.org/github/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/NoteBook/10_Tomato_Disease_Detection_and_Classification_with_94_accuracy_.ipynb" target="_blank">
   <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
