@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://nitnetomatodiseases.herokuapp.com" target="_blank">
-  <img align="center"  src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png"/>
+  <img align="center"  src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png" width="900" height="500>
 </a>
 </p>
 
