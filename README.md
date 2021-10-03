@@ -6,14 +6,17 @@
 </p>
 
 <p align="center">
-<a href="https://nitnetomatodiseases.herokuapp.com" target="_blank">
+<a href="https://nitnetomatodiseases.herokuapp.com"  target = "_blank">
   <img align="center"  src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png" height="50" />
 </a>
 </p>
 
 <p align="center">
-<img src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png" onclick="window.open('https://nitnetomatodiseases.herokuapp.com', '_blank');" />
+<a href="#" onclick='window.open("http://www.foracure.org.au");return false;'>
+  <img align="center"  src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png" height="50" />
+</a>
 </p>
+
 
 
 <img src="https://www.saferbrand.com/media/articles/images/790/sb_us_t_main_Tomato_problems_2015-07-14.jpg" alt="tomato" width="900" height="500">
