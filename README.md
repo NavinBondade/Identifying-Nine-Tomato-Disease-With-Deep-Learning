@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="#" onclick='window.open("http://www.foracure.org.au");return false;'>
+<a onclick="window.open ('http://www.foracure.org.au', ''); return false" href="javascript:void(0);">
   <img align="center"  src="https://github.com/NavinBondade/Identifying-Nine-Tomato-Disease-With-Deep-Learning/blob/main/Tomato%20Disease%20and%20Classification/Graphs%20and%20Pictures/webappbtn.png" height="50" />
 </a>
 </p>
